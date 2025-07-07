@@ -10,6 +10,8 @@
 역할: 데이터 수집 및 전처리, Tableau를 통한 분석 결과 시각화, Clustering 기법 사용
 습득 스킬: Tableau를 활용한 시각화 능력, Excel과 Python을 활용한 데이터 전처리 및 Clutering 기법 활용법 습득
 
+<img width="411" height="175" alt="Image" src="https://github.com/user-attachments/assets/b6bb55cf-196f-4b91-a92a-0aaf98d05534" />
+
 ## 사용 데이터
 - 총 12개의 데이터 사용
 - 사용된 데이터는 행정구역(읍/면/동)별 5세 단위 주민등록인구를 제외하고, 모두 노인복지시설 인근에 위치할 경우 노인들에게 도움이 될 만한 요소들을 기준으로 선정
